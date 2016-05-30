@@ -58,3 +58,13 @@ eb deploy
 ```
 
 eb deploy will start of new deployment of hubot to prod environment
+
+## Plugins
+
+Plugins are installed in the **scripts** folder.
+
+### hubot-newrelic2
+
+Targeted Victory's fork of hubot-newrelic2 (https://github.com/targetedvictory/hubot-newrelic2)
+is installed with support for additional metrics and multiple accounts.  See the
+readme at that repository for detailed usage and configuration information.
